@@ -1,10 +1,12 @@
-# Paper title [@TODO: Change]
+# Towards Better Laplacian Representation in Reinforcement Learning with Generalized Graph Drawing
 
 This readme file is an outcome of the [CENG502 (Spring 2022)](https://ceng.metu.edu.tr/~skalkan/ADL/) project for reproducing a paper without an implementation. See [CENG502 (Spring 2022) Project List]([https://github.com/sinankalkan/CENG502-Spring2021](https://github.com/CENG502-Projects/CENG502-Spring2022)) for a complete list of all paper reproduction projects.
 
 # 1. Introduction
 
 @TODO: Introduce the paper (inc. where it is published) and describe your goal (reproducibility).
+
+https://arxiv.org/abs/2107.05545
 
 ## 1.1. Paper summary
 
@@ -45,3 +47,5 @@ This readme file is an outcome of the [CENG502 (Spring 2022)](https://ceng.metu.
 # Contact
 
 @TODO: Provide your names & email addresses and any other info with which people can contact you.
+
+Semih Kaya: semihkayya@hotmail.com
